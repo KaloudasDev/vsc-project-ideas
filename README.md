@@ -1,4 +1,4 @@
-# Professional VS Code Project Ideas
+## Professional VS Code Project Ideas
 
 A curated collection of professional project ideas designed for developers to practice, learn new technologies, and build portfolios. These projects range from beginner-friendly to advanced, covering a wide spectrum of modern software development.
 
