@@ -2,14 +2,6 @@
 
 A curated collection of professional project ideas designed for developers to practice, learn and build portfolios. These projects range from beginner to advanced, covering a wide spectrum of modern software development.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Project Categories](#project-categories)
-- [Contribution Guidelines](#contribution-guidelines)
-- [Code of Conduct](#code-of-conduct)
-- [License](#license)
-
 ## Introduction
 
 This repository serves as a resource for developers seeking meaningful projects to enhance their skills. Each idea is structured with clear objectives, suggested technologies, and feature lists to provide a solid starting point. The focus is on building applications that solve real-world problems or demonstrate proficiency in key development areas.
@@ -92,6 +84,13 @@ When contributing a new idea, please use the following template:
 - [Objective 3]
 **Suggested Tech Stack:** [Technology 1, Technology 2, ...]
 ```
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Project Categories](#project-categories)
+- [Contribution Guidelines](#contribution-guidelines)
+- [Code of Conduct](#code-of-conduct)
 
 ## Code of Conduct
 
