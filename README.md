@@ -94,7 +94,8 @@ When contributing a new idea, please use the following template:
 
 ## Code of Conduct
 
-We are committed to providing a friendly, safe, and professional environment. By participating, you are expected to uphold this code. Please report any unacceptable behavior.
+We are committed to providing a friendly, safe, and professional environment.   
+By participating, you are expected to uphold this code. Please report any unacceptable behavior.
 
 ## License
 
