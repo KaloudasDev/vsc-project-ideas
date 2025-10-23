@@ -16,7 +16,7 @@ This repository serves as a resource for developers seeking meaningful projects 
 
 ## Project Categories
 
-### 🔹 Backend & API Development
+### Backend & API Development
 
 #### Project 1: RESTful API for a Task Management System
 **Description:** Build a secure and scalable RESTful API for a task management application.
@@ -36,7 +36,7 @@ This repository serves as a resource for developers seeking meaningful projects 
 - Ensure high throughput and fault tolerance.
 **Suggested Tech Stack:** Node.js / Python, Redis/RabbitMQ, WebSockets (Socket.io), Nodemailer.
 
-### 🔹 Frontend & Full-Stack
+### Frontend & Full-Stack
 
 #### Project 1: Data Visualization Dashboard
 **Description:** Create an interactive dashboard that visualizes data from a public API or a dataset.
@@ -56,7 +56,7 @@ This repository serves as a resource for developers seeking meaningful projects 
 - Ensure the application is fully responsive and performs well on low-end devices.
 **Suggested Tech Stack:** React (Context/Redux) / Vue.js (Vuex/Pinia), TypeScript, SCSS/Tailwind CSS.
 
-### 🔹 DevOps & Infrastructure
+### DevOps & Infrastructure
 
 #### Project 1: CI/CD Pipeline for a Simple Web Application
 **Description:** Design and implement a complete CI/CD pipeline for a containerized application.
